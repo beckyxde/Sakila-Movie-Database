@@ -109,11 +109,7 @@ ORDER BY 3 DESC
 LIMIT 10
 
 
-/* The first query shows the payment differences of the customer compared to one another.
-In regards to the query below, I struggled with the query for hours,
-tried to find help on StackOverflow, wrote on the mentor forum for help,
-and the query still returns an error. Because of this, I have answered the Q1 in set 2,
-but I will still include my query for Q3 because I’d like to receive feedback. */
+/* The first query shows the payment differences of the customer compared to one another. */
 
 WITH t1 AS
   (SELECT CONCAT(c.first_name, ' ', c.last_name) full_name
