@@ -1,12 +1,12 @@
-###10.07.2020
+### 10.07.2020
 
-###Investigate a Relational Database
+### Investigate a Relational Database
 
-###Description
+### Description
 
 This project queries the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. The queries in this project are tailored for the purpose of gaining an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance.
 
-###Question Sets
+### Question Sets
 
 1. How does the length of rental duration of these family-friendly movies compare to the duration that all movies are rented for. Provide a table with the movie titles and divide them into 4 levels (first_quarter, second_quarter, third_quarter, and final_quarter) based on the quartiles (25%, 50%, 75%) of the rental duration for movies across all categories. Make sure to also indicate the category that these family-friendly movies fall into.
 
@@ -16,7 +16,7 @@ This project queries the Sakila DVD Rental database. The Sakila Database holds i
 
 4. Who were the top 10 paying customers, how many payments did they make on a monthly basis during 2007, and what was the amount of the monthly payments? Write a query to capture the customer name, month and year of payment, and total payment amount for each month by these top 10 paying customers.
 
-###Presentation Requirements
+### Presentation Requirements
 
 Slide Deck (4 slides)
 Text File with SQL queries
